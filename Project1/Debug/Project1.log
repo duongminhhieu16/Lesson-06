@@ -1,0 +1,7 @@
+﻿  mine.cpp
+  Source.cpp
+C:\SDL\Project1\Source.cpp(48,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\SDL\Project1\Source.cpp(238,31): warning C4018:  '<': signed/unsigned mismatch
+  Generating Code...
+C:\SDL\Project1\Source.cpp(238,70): warning C4018:  '<': signed/unsigned mismatch
+  Project1.vcxproj -> C:\SDL\Project1\Debug\Project1.exe
