@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\duong\source\repos\Lesson-06-master\Project1\Source.cpp(67,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\duong\source\repos\Lesson-06-master\Project1\Source.cpp(301,31): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\duong\source\repos\Lesson-06-master\Project1\Source.cpp(301,70): warning C4018:  '<': signed/unsigned mismatch
+  Generating code
+  1 of 173 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project1.vcxproj -> C:\Users\duong\source\repos\Lesson-06-master\Project1\Project1.exe
